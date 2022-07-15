@@ -20,9 +20,9 @@ Retraining model periodically or based on drift detection techniques is generall
 * Generate synthetic data based on newly available behavior patterns and retrain the model
 
 ## Model decay plots
-![model_decay_before_covid_-_Apr_2019_to_feb_2020](plots/model_decay_before_covid_-_Apr_2019_to_feb_2020.png)
-![model_decay_after_covid_-_mar_2020_to_nov_2020](plots/model_decay_after_covid_-_mar_2020_to_nov_2020.png)
-![overall_model_decay](plots/overall_model_decay.png)
+![model_decay_before_covid_-_Apr_2019_to_feb_2020](plots/model_decay_before_covid_-_Apr_2019_to_feb_2020.svg)
+![model_decay_after_covid_-_mar_2020_to_nov_2020](plots/model_decay_after_covid_-_mar_2020_to_nov_2020.svg)
+![overall_model_decay](plots/overall_model_decay.svg)
 
 ## Conclusions
 
