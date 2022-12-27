@@ -24,7 +24,7 @@ Retraining model periodically or based on drift detection techniques is generall
 ![model_decay_after_covid_-_mar_2020_to_nov_2020](plots/model_decay_after_covid_-_mar_2020_to_nov_2020.svg)
 ![overall_model_decay](plots/overall_model_decay.svg)
 
-## Conclusions
+## Conclusions 
 
 * Overall best performance was retraining model with exponential decay based instance weights. Instance weights based solution works well for gradual model decay which is expected over time.
 * Best at handling sudden drift(sharp model decay) during covid was adaptive window solution. Adaptive window solution uses recent data as a result likey to capture more relevant patterns.
